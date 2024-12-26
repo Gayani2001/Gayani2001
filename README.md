@@ -56,9 +56,5 @@
 
 <h3 align="left">My GitHub Contributions:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayani2001&theme=light" alt="gayani2001" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gayani2001&bg_color=ffffff&color=00ff00&line=00ff00&point=ff0000" alt="gayani2001 GitHub Activity Graph" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gayani2001&bg_color=ffffff&color=000000&line=00ff00&point=ff0000" alt="gayani2001" />
-</p>
-
